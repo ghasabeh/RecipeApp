@@ -18,8 +18,8 @@ This is a simple recipe application that retrieves a list of food recipes from t
 
 ## Screenshots
 <div style="display:flex; justify-content: center;">
-    <img src="screenshots/screenshot_1.png" alt="Food List" style="width:30%; margin-right: 10px;">
-    <img src="screenshots/screenshot_2.png" alt="Food Detail" style="width:30%; margin-right: 10px;">
+    <img src="screenshots/Screenshot_1.png" alt="Food List" style="width:30%; margin-right: 10px;">
+    <img src="screenshots/Screenshot_2.png" alt="Food Detail" style="width:30%; margin-right: 10px;">
 </div>
 
 ## Getting Started
